@@ -44,7 +44,7 @@ python cli.py --symbol BTCUSDT --side SELL --type MARKET --quantity 0.002
 ### Limit Order
 ```bash
 python cli.py --symbol BTCUSDT --side BUY --type LIMIT --quantity 0.002 --price 60000
-python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.002 --price 70000
+python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.002 --price 80000
 ```
 
 ## Project Structure
