@@ -8,7 +8,7 @@ A Python-based command-line trading bot for Binance Futures Testnet that enables
 
 1. **Clone the repo**
    ```bash
-   git clone <repo-url>
+   git clone git clone https://github.com/Git-Kapish/trading_bot.git
    cd trading_bot
    ```
 

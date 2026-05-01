@@ -37,7 +37,7 @@ env/
 
 # Logs
 logs/
-*.log
+!logs/trading_bot.log
 
 # OS
 .DS_Store
